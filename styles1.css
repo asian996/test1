@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+.div {
+  background-color: red;
+  width: 300px;
+  text-align: center;
+  padding: 30px;
+  margin: 50px;
+}
+.ul {
+  list-style: none;
+}
+.li {
+
+}
+.a {
+  text-decoration: none;
+  color:red;
+}
+.a :last-child {
+  color : black;
+}
